@@ -1,0 +1,13 @@
+#textoPrincipal{
+    font-size: 40px;
+    font-weight: bold;
+    background-color: gray;
+    color: hotpink;
+}
+h1 {
+    font-size: 20px;                
+}
+
+.negrito{
+    font-weight: bold;
+}
